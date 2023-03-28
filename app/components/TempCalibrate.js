@@ -96,7 +96,7 @@ class TempCal extends React.Component {
       timesRead: 3,
       valueInputs: [],
       tempStream: [],
-      deltaTempRange: [0, 1000], //slope around 0.02 C per a.u.
+      deltaTempRange: [0, 700], //slope around 0.02 C per a.u.
       deltaTempSteps: 3,
       equilibrateState: true,
       roomTempAvg: [],
