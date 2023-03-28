@@ -5,7 +5,7 @@
 Install dependencies with yarn.
 
 ```bash
-$ cd your_directory/evolver-electron
+$ cd eVOLVER_computer/evolver-electron
 $ yarn
 ```
 
@@ -15,14 +15,6 @@ Start the app in the `dev` environment. This starts the renderer process in [**h
 
 ```bash
 $ yarn dev
-```
-## Github
-
-Use the command line to commit to the repo, using the Github App will throw errors:
-
-```bash
-git add .
-git commit -a --no-verify -m "Put comment here"
 ```
 
 ## Packaging
